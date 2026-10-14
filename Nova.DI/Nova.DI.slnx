@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Nova.DI.Abstractions/Nova.DI.Abstractions.csproj" />
+  <Project Path="Nova.DI/Nova.DI.csproj" />
+</Solution>
